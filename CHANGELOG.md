@@ -1,5 +1,19 @@
 # Changelog
 
+## [5.4.0](https://github.com/shaka-project/shaka-player/compare/v5.3.0...v5.4.0) (2026-10-19)
+
+
+### Features
+
+* **Text:** Add textDisplayer.fontVariant config ([#10759](https://github.com/shaka-project/shaka-player/issues/10759)) ([62b7ba8](https://github.com/shaka-project/shaka-player/commit/62b7ba880c9ebc80640ed92dc19cb92169ea870d))
+
+
+### Bug Fixes
+
+* Align skip range API behavior with its documentation ([#10753](https://github.com/shaka-project/shaka-player/issues/10753)) ([677b2ab](https://github.com/shaka-project/shaka-player/commit/677b2ab2fc26ebe5eab6eae48bc3fbdad4c109cc)), closes [#10752](https://github.com/shaka-project/shaka-player/issues/10752)
+* **HLS:** Keep the live availability window anchored to the playlist ([#10741](https://github.com/shaka-project/shaka-player/issues/10741)) ([d5dec3c](https://github.com/shaka-project/shaka-player/commit/d5dec3c700c7dd7a1cfb8619c0fd619d85073dd2)), closes [#9346](https://github.com/shaka-project/shaka-player/issues/9346)
+* **Text:** Allow any CSS font family in textDisplayer.fontFamily ([#10756](https://github.com/shaka-project/shaka-player/issues/10756)) ([9e562a3](https://github.com/shaka-project/shaka-player/commit/9e562a3423d5eabc15c7e38645c866e3b0a8d7fb))
+
 ## [5.3.0](https://github.com/shaka-project/shaka-player/compare/v5.2.0...v5.3.0) (2026-10-16)
 
 
